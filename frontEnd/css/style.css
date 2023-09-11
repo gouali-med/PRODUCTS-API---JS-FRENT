@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(226, 223, 223);
+}
+
+.block {
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+label {
+    color: #ffff;
+}
+
+.dataTables_info{
+color: #ffff;
+}
+
+a{
+    background-color: #ffff;
+}

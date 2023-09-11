@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ProductsManagementApiJS" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\LES\ PROJECTS\\Developement\ projects\\Product\ category\ fullstack\ \(js-api\ core\ 6\)\\WebProducts_BackEnd\\WebProducts\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
